@@ -14,7 +14,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       </dependency>
     </dependencies>
 <!-- My repos changes by sanjay -->
-<!-- sanjay is changing the code here for demo testing of versions for the git-->
+<!-- sanjay is changing the code  on my system here for demo testing of versions for the git-->
 	<repositories>
 	<repository>
 	    <id>java.net</id>
